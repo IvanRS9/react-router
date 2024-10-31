@@ -1,0 +1,8 @@
+.active{
+    color: crimson;
+    font-weight: bold;
+}
+
+.hover{
+    color: lightslategray;
+}
